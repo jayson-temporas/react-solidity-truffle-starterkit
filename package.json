@@ -1,0 +1,18 @@
+{
+  "name": "react-solidity-starter-kit",
+  "version": "1.0.0",
+  "description": "This truffle react starter kit is designed to get you up and running faster and worry less on settings and configuration",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}
